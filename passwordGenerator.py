@@ -1,4 +1,4 @@
-import Class as pwd
+import passwordClass as pwd
 from datetime import date, timedelta
 
 if __name__ == "__main__":
