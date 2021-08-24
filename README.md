@@ -1,4 +1,2 @@
 # pythonProject
-Password Generator
-passwordClass is imported by passwordGenerator.
-Execute the program from passwordGenerator to retrieve randomly generated password.
+Cybersecurity python project developed at Boston University
